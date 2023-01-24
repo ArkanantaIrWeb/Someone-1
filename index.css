@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "tulis sambung";
+  src: url('brush script mt kursiv.ttf');
+}
+
+body{
+  background-color: black;
+  color: white;
+}
+
+.bal{
+  font-family: "tulis sambung";
+  font-size: 60px;
+  padding: 20px;
+  text-align: center;
+}
+
+.pasatu, .pasadu, .pasati{
+    padding: 59px;
+    font-size: 15px;
+    text-align: left;    
+}
